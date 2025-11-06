@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJmb3VuZGl0LmFwcCJ9",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "FoundIt",
+    "homeUrl": "https://foundit.app",
+    "iconUrl": "https://foundit.app/icon.png",
+    "splashImageUrl": "https://foundit.app/splash.png",
+    "splashBackgroundColor": "#1a2332",
+    "webhookUrl": "https://foundit.app/api/webhook",
+    "subtitle": "School Lost & Found",
+    "description": "A mobile-first lost and found management system for elementary schools that lets parents browse photos of lost items remotely and claim them through an admin-approved verification process.",
+    "screenshotUrls": [
+      "https://foundit.app/screenshot1.png",
+      "https://foundit.app/screenshot2.png",
+      "https://foundit.app/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["school", "lost-and-found", "education", "parents"],
+    "heroImageUrl": "https://foundit.app/hero.png",
+    "tagline": "Reunite kids with their lost stuff in seconds, not days",
+    "ogTitle": "FoundIt - School Lost & Found",
+    "ogDescription": "Reunite kids with their lost stuff in seconds, not days",
+    "ogImageUrl": "https://foundit.app/og.png"
+  }
+}
