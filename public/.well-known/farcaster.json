@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "FoundIt",
-    "homeUrl": "https://foundit.app",
+    "homeUrl": "https://app-fe922696-iauq.vercel.app",
     "iconUrl": "https://foundit.app/icon.png",
     "splashImageUrl": "https://foundit.app/splash.png",
     "splashBackgroundColor": "#1a2332",
-    "webhookUrl": "https://foundit.app/api/webhook",
+    "webhookUrl": "https://app-fe922696-iauq.vercel.app/api/webhook",
     "subtitle": "School Lost & Found",
     "description": "A mobile-first lost and found management system for elementary schools that lets parents browse photos of lost items remotely and claim them through an admin-approved verification process.",
     "screenshotUrls": [
@@ -20,7 +20,12 @@
       "https://foundit.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["school", "lost-and-found", "education", "parents"],
+    "tags": [
+      "school",
+      "lost-and-found",
+      "education",
+      "parents"
+    ],
     "heroImageUrl": "https://foundit.app/hero.png",
     "tagline": "Reunite kids with their lost stuff in seconds, not days",
     "ogTitle": "FoundIt - School Lost & Found",
